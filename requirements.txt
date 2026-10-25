@@ -2,7 +2,7 @@ accelerate==0.18.0
 colorama
 datasets
 flexgen==0.1.7
-gradio==3.25.0
+gradio==6.30.0
 markdown
 numpy
 pandas
@@ -13,7 +13,7 @@ rwkv==0.7.3
 safetensors==0.3.1
 sentencepiece
 tqdm
-git+https://github.com/huggingface/peft
+git+https://github.com/huggingface/peft@7d6315ae910bf62b6044a7ca917bccf5881f5e43
 transformers==4.28.1
 bitsandbytes==0.38.1; platform_system != "Windows"
 llama-cpp-python==0.1.41; platform_system != "Windows"
